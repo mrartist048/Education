@@ -364,8 +364,8 @@ nav .fas, .far{
         height: 100vh;
         width: 200px;
         top: 0;
-        display: none;
-        right: 0px;
+       
+        right: -250px;
         text-align: left;
         transition: 1.5s;
         z-index: 2;
